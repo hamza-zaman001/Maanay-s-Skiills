@@ -1,0 +1,28 @@
+
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.red {
+    color: blueviolet;
+}
+
+h1 {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.details {
+    padding: 15px;
+    background-color: aqua;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
